@@ -3,6 +3,7 @@ import java.lang.Comparable;
 
 public abstract class Figura implements Comparable<Figura>{ //Clase principal
 
+    //FIgura
     private double area;
 
     public abstract double area();//llamamos a la funcion area de cada figura
